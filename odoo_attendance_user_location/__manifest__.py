@@ -39,7 +39,7 @@
         ],
     },
     'images': ['static/description/banner.jpg'],
-    'external_dependencies': {'python': ['geopy']},
+    # 'external_dependencies': {'python': ['geopy']},
     'license': 'AGPL-3',
     'installable': True,
     'auto_install': False,
